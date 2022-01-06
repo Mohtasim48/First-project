@@ -28,6 +28,8 @@ section{
 }
 .half-width img{
     width: 70%;
+    adding-top: 10%;
+    padding-left: 12%;
 
 }
 .imp{
@@ -52,7 +54,7 @@ button{
     color: brown;
 }
 .box{
-    display:flex;
+    display: flex;
 }
 .paragraph{
     color: black;
