@@ -10,3 +10,7 @@ h1{
 .red-color{
     color: rgb(168, 35, 35);
 }
+p{
+    font-size: 30px;
+    color: sandybrown;
+}
