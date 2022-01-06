@@ -6,6 +6,8 @@ body{
 }
 h1{
     font-size: 50px;
+    margin: 0px;
+
 }
 .red-color{
     color: rgb(168, 35, 35);
@@ -21,6 +23,8 @@ section{
     width: 50%;
     padding-left: 5%;
     
+
+    
 }
 .half-width img{
     width: 70%;
@@ -28,10 +32,12 @@ section{
 }
 .imp{
     margin: 0px;
+    padding-top: 10%;
+    padding-left: 12%;
     
 }
 button{
-    background-color: rgb(231, 95, 95);
+    background-image: linear-gradient(red,brown);
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     color: seashell;
@@ -39,4 +45,19 @@ button{
     border: 0px;
     border-radius: 10%;
 }
+#heading{
+    text-align: center;
+}
+.brown{
+    color: brown;
+}
+.box{
+    display:flex;
+}
+.paragraph{
+    color: black;
+    font-size: 15px;
+}
+
+    
 
