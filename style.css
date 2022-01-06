@@ -5,7 +5,7 @@ body{
     color: brown;
 }
 h1{
-    font-size: 64px;
+    font-size: 50px;
 }
 .red-color{
     color: rgb(168, 35, 35);
@@ -14,3 +14,29 @@ p{
     font-size: 30px;
     color: sandybrown;
 }
+section{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 70%;
+
+}
+.imp{
+    margin: 0px;
+    
+}
+button{
+    background-color: rgb(231, 95, 95);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: seashell;
+    padding: 10px 10px;
+    border: 0px;
+    border-radius: 10%;
+}
+
