@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 40px 80px;
 }
 .text{
     color: brown;
@@ -95,6 +96,11 @@ h2{
     margin: 0;
     padding-top: 30px;
     padding-bottom: 20px;
+}
+.banner{
+    background-image: url(shape-9.png);
+    background-repeat: no-repeat;
+    
 }
 
     
