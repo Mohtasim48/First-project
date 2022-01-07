@@ -84,6 +84,18 @@ button{
     border-color: rgb(248, 248, 1);
     
 }
+.paragraph2{
+    color: black;
+    font-size: 30px;
+}
+h2{
+    font-size: 40px;
+}
+.padding{
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
 
     
 
