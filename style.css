@@ -49,6 +49,8 @@ button{
 }
 #heading{
     text-align: center;
+    padding: 50px;
+    margin: 80px;
 }
 .brown{
     color: brown;
@@ -130,6 +132,10 @@ span{
     background-size: 30%, 20%,40%;
     background-position: left top, left bottom, right center;
 
+}
+.no{
+    padding: 50px;
+    margin: 80px;
 }
 
 
