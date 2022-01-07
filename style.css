@@ -115,6 +115,14 @@ h2{
     background-position: right bottom;
     background-size: 38%;
 }
+span{
+    color: sandybrown;
+}
+#go{
+    text-align: center;
+    padding: 50px;
+    margin: 80px;
+}
 
 
     
