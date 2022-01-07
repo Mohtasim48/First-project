@@ -123,6 +123,14 @@ span{
     padding: 50px;
     margin: 80px;
 }
+.shape{
+    
+    background-image: url(shape-3.png), url(shape-3.png),url(shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 30%, 20%,40%;
+    background-position: left top, left bottom, right center;
+
+}
 
 
     
