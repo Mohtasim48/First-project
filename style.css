@@ -100,7 +100,13 @@ h2{
 .banner{
     background-image: url(shape-9.png);
     background-repeat: no-repeat;
-    
+
+}
+.dev{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 18%;
 }
 
     
