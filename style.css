@@ -28,8 +28,7 @@ section{
 }
 .half-width img{
     width: 70%;
-    adding-top: 10%;
-    padding-left: 12%;
+
 
 }
 .imp{
@@ -59,6 +58,14 @@ button{
 .paragraph{
     color: black;
     font-size: 15px;
+}
+.border{
+    border-radius: 50px;
+    background-color: cadetblue;
+    margin: 2% 2% 5% 5%;
+    padding: 2% 5%;
+    box-shadow: 5px 10px 2px skyblue;
+    
 }
 
     
