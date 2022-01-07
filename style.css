@@ -133,9 +133,14 @@ span{
     background-position: left top, left bottom, right center;
 
 }
-.no{
-    padding: 50px;
-    margin: 80px;
+
+
+.yes{
+    border-left: 5px solid;
+    border-color: red;
+    
+
+    
 }
 
 
